@@ -1,20 +1,33 @@
-.h1 {
-  color: #7b1fa2;
-  text-align: center;
-  text-decoration: overline;
-  font-size: 50pt;
-  font-style: italic;
-  color: white;
-  font-family: monospace;
-  font-size:
+h1 {
+  color: purple;
+  text-align: ;
 }
 
-.nav {
-  background-image: url("https://66.media.tumblr.com/a249af16ec498709c6ea63274b43029b/tumblr_nu9kn7zKNS1s3n568o1_1280.gif");
-  background-repeat: no-repeat;
-  background-size: cover;
+body {
+  background-color: violet;
   background-attachment: fixed;
   text-align: center;
   text-indent: inherit;
   page-break-inside: block;
 }
+
+h1 {
+  text-decoration: line-through;
+}
+
+h1 {
+  font-style: italic;
+}
+
+h2 {
+  padding: 50px
+}
+
+h3 {
+  font-size: 70px
+}
+
+h1 {
+  color: blue;
+  font-family: monospace;
+  font-size:
