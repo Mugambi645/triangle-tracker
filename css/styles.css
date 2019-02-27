@@ -1,4 +1,4 @@
-h1 {
+.h1 {
   color: #7b1fa2;
   text-align: center;
   text-decoration: line-through;
@@ -9,7 +9,7 @@ h1 {
   font-size:
 }
 
-body {
+.body {
   background-image: url("https://lesterbanks.com/lxb_metal/wp-content/uploads/2017/11/Penroase-Triangle.gif");
   background-repeat: no-repeat;
   background-size: cover;
