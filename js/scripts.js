@@ -8,7 +8,7 @@ function triangletracker() {
       if(sideOne===sideTwo && sideTwo===sideThree && sideOne===sideThree) {
         alert("This is an equilateral triangle");
     }
-else if(sideOne===sideTwo || sidetwo===sideThree || sideOne===sideThree) {
+else if(sideOne===sideTwo || sideTwo===sideThree || sideOne===sideThree) {
   alert("This is an isosceles triangle");
 }
 else {
