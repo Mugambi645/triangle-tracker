@@ -1,0 +1,20 @@
+h1 {
+  color: #7b1fa2;
+  text-align: center;
+  text-decoration: line-through;
+  font-size: 50pt;
+  font-style: italic;
+  color: blue;
+  font-family: monospace;
+  font-size:
+}
+
+body {
+  background-image: url("https://lesterbanks.com/lxb_metal/wp-content/uploads/2017/11/Penroase-Triangle.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  text-indent: inherit;
+  page-break-inside: block;
+}
