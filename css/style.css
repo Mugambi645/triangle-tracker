@@ -1,6 +1,9 @@
 h1 {
-  color: purple;
-  text-align: ;
+  color: ;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  padding: 40px
 }
 
 body {
@@ -9,25 +12,9 @@ body {
   text-align: center;
   text-indent: inherit;
   page-break-inside: block;
-}
-
-h1 {
-  text-decoration: line-through;
-}
-
-h1 {
-  font-style: italic;
-}
-
-h2 {
   padding: 50px
 }
 
-h3 {
-  font-size: 70px
+.guccifer {
+  padding: 50px;
 }
-
-h1 {
-  color: blue;
-  font-family: monospace;
-  font-size:
