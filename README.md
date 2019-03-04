@@ -2,7 +2,7 @@
 #### {This is a simple triangle detecting web app}, {03-04-2019}
 #### By **{patrick mugambi}**
 ## Description
-{This is a simple triangle website which identifies types of triangles three types of triangles}
+{This is a simple triangle tracking website which identifies three types of triangles}
 * If a triangle has equal sides it is an equilateral
 * If a triangle has no equal side it is a scalene
 * if it has two equal sides it is an isosceles
